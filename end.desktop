@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/betabalie/Documents/CLICKTOEND.sh
+Name=END
+Comment=End Training Session
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;
